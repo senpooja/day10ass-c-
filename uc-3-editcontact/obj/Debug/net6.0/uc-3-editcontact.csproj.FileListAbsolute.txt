@@ -1,0 +1,15 @@
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\AddNewContacts-uc-2\uc-3-editcontact\bin\Debug\net6.0\uc-3-editcontact.exe
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\AddNewContacts-uc-2\uc-3-editcontact\bin\Debug\net6.0\uc-3-editcontact.deps.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\AddNewContacts-uc-2\uc-3-editcontact\bin\Debug\net6.0\uc-3-editcontact.runtimeconfig.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\AddNewContacts-uc-2\uc-3-editcontact\bin\Debug\net6.0\uc-3-editcontact.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\AddNewContacts-uc-2\uc-3-editcontact\bin\Debug\net6.0\uc-3-editcontact.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\AddNewContacts-uc-2\uc-3-editcontact\obj\Debug\net6.0\uc-3-editcontact.csproj.AssemblyReference.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\AddNewContacts-uc-2\uc-3-editcontact\obj\Debug\net6.0\uc-3-editcontact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\AddNewContacts-uc-2\uc-3-editcontact\obj\Debug\net6.0\uc-3-editcontact.AssemblyInfoInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\AddNewContacts-uc-2\uc-3-editcontact\obj\Debug\net6.0\uc-3-editcontact.AssemblyInfo.cs
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\AddNewContacts-uc-2\uc-3-editcontact\obj\Debug\net6.0\uc-3-editcontact.csproj.CoreCompileInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\AddNewContacts-uc-2\uc-3-editcontact\obj\Debug\net6.0\uc-3-editcontact.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\AddNewContacts-uc-2\uc-3-editcontact\obj\Debug\net6.0\refint\uc-3-editcontact.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\AddNewContacts-uc-2\uc-3-editcontact\obj\Debug\net6.0\uc-3-editcontact.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\AddNewContacts-uc-2\uc-3-editcontact\obj\Debug\net6.0\uc-3-editcontact.genruntimeconfig.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\AddNewContacts-uc-2\uc-3-editcontact\obj\Debug\net6.0\ref\uc-3-editcontact.dll
