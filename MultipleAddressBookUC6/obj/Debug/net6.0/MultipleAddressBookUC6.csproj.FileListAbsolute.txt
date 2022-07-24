@@ -1,0 +1,15 @@
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\AddNewContacts-uc-2\MultipleAddressBookUC6\obj\Debug\net6.0\MultipleAddressBookUC6.csproj.AssemblyReference.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\AddNewContacts-uc-2\MultipleAddressBookUC6\obj\Debug\net6.0\MultipleAddressBookUC6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\AddNewContacts-uc-2\MultipleAddressBookUC6\obj\Debug\net6.0\MultipleAddressBookUC6.AssemblyInfoInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\AddNewContacts-uc-2\MultipleAddressBookUC6\obj\Debug\net6.0\MultipleAddressBookUC6.AssemblyInfo.cs
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\AddNewContacts-uc-2\MultipleAddressBookUC6\obj\Debug\net6.0\MultipleAddressBookUC6.csproj.CoreCompileInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\AddNewContacts-uc-2\MultipleAddressBookUC6\bin\Debug\net6.0\MultipleAddressBookUC6.exe
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\AddNewContacts-uc-2\MultipleAddressBookUC6\bin\Debug\net6.0\MultipleAddressBookUC6.deps.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\AddNewContacts-uc-2\MultipleAddressBookUC6\bin\Debug\net6.0\MultipleAddressBookUC6.runtimeconfig.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\AddNewContacts-uc-2\MultipleAddressBookUC6\bin\Debug\net6.0\MultipleAddressBookUC6.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\AddNewContacts-uc-2\MultipleAddressBookUC6\bin\Debug\net6.0\MultipleAddressBookUC6.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\AddNewContacts-uc-2\MultipleAddressBookUC6\obj\Debug\net6.0\MultipleAddressBookUC6.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\AddNewContacts-uc-2\MultipleAddressBookUC6\obj\Debug\net6.0\refint\MultipleAddressBookUC6.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\AddNewContacts-uc-2\MultipleAddressBookUC6\obj\Debug\net6.0\MultipleAddressBookUC6.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\AddNewContacts-uc-2\MultipleAddressBookUC6\obj\Debug\net6.0\MultipleAddressBookUC6.genruntimeconfig.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\AddNewContacts-uc-2\MultipleAddressBookUC6\obj\Debug\net6.0\ref\MultipleAddressBookUC6.dll
