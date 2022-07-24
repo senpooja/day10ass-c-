@@ -1,0 +1,15 @@
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\AddNewContacts-uc-2\MultipuleContactUC5\obj\Debug\net6.0\MultipuleContactUC5.csproj.AssemblyReference.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\AddNewContacts-uc-2\MultipuleContactUC5\obj\Debug\net6.0\MultipuleContactUC5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\AddNewContacts-uc-2\MultipuleContactUC5\obj\Debug\net6.0\MultipuleContactUC5.AssemblyInfoInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\AddNewContacts-uc-2\MultipuleContactUC5\obj\Debug\net6.0\MultipuleContactUC5.AssemblyInfo.cs
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\AddNewContacts-uc-2\MultipuleContactUC5\obj\Debug\net6.0\MultipuleContactUC5.csproj.CoreCompileInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\AddNewContacts-uc-2\MultipuleContactUC5\bin\Debug\net6.0\MultipuleContactUC5.exe
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\AddNewContacts-uc-2\MultipuleContactUC5\bin\Debug\net6.0\MultipuleContactUC5.deps.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\AddNewContacts-uc-2\MultipuleContactUC5\bin\Debug\net6.0\MultipuleContactUC5.runtimeconfig.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\AddNewContacts-uc-2\MultipuleContactUC5\bin\Debug\net6.0\MultipuleContactUC5.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\AddNewContacts-uc-2\MultipuleContactUC5\bin\Debug\net6.0\MultipuleContactUC5.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\AddNewContacts-uc-2\MultipuleContactUC5\obj\Debug\net6.0\MultipuleContactUC5.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\AddNewContacts-uc-2\MultipuleContactUC5\obj\Debug\net6.0\refint\MultipuleContactUC5.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\AddNewContacts-uc-2\MultipuleContactUC5\obj\Debug\net6.0\MultipuleContactUC5.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\AddNewContacts-uc-2\MultipuleContactUC5\obj\Debug\net6.0\MultipuleContactUC5.genruntimeconfig.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\AddNewContacts-uc-2\MultipuleContactUC5\obj\Debug\net6.0\ref\MultipuleContactUC5.dll
